@@ -3,7 +3,7 @@ SyntaxRelationAnalyzer
 
 Syntactic relations analyzer by Pavel Aleynikov, supervised by Dr Mstislav Maslennikov
 
-Nickname: aSyntRel 13
+Nickname: ASynt 13
 
 This is a project for the "Mathematical methods for text analysis" course in spring 2013 in MSU. 
 
